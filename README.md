@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AWworks
 - 👀 I’m interested in frontend web development
-- 🌱 I’m currently learning reactjs
+- 🌱 I’m currently working on reactjs
 - 💞️ I’m looking to collaborate on reactjs
 - 📫 dawahab@gmail.com
 
