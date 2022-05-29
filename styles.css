@@ -30,6 +30,7 @@ header {
 .social ul li svg {
   width: 24px ;
   height: 24px ;
+  overflow: visible;
 } 
 
 .hero .hero-image {
